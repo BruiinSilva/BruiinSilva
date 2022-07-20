@@ -8,11 +8,11 @@
 Estou estudando programação 
  
 <br />
-Analise de sistema 💻
+💻 Analise de sistema 
  <br />
-Gestão tecnológia da informação 💻
+💻 Gestão tecnológia da informação 
 <br />
-Dev. Front end cursando  no senai 💻
+💻 Dev. Front end cursando  no Senai-DF
  <br />
 
 
