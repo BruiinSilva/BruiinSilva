@@ -4,9 +4,10 @@
 # Bruno Gomes
 
 ## Olá pessoal 👋
-Estou aprendendo Programação
+Estou estudando progração 
+ 
 <br />
-Analise de sistema :computer:
+Analise de sistema :compute:
 <br />
 Gestão tecnológia da informação :computer:
 <br />
