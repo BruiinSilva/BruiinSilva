@@ -4,14 +4,15 @@
 
 ## Olá pessoal 👋
 
-Estou estudando programação 
+Estou estudando programação,
+Em busca do primeiro emprego na área.
  
 <br />
-💻 Analise de sistema 
+💻 Analise de sistema - Uniplan (2019-2020)
  <br />
-💻 Gestão tecnológia da informação 
+💻 Gestão tecnológia da informação - Uniplan (2020-2021)
 <br />
-💻 Dev. Front end cursando  no Senai-DF
+💻 Dev. Front end cursando  no Senai-DF ( Inicio 23/05/2022 - )
  <br />
 
 
