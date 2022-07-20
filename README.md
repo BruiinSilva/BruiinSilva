@@ -33,10 +33,11 @@ Dev. Front end cursando Senai :computer:
 ##
 
 <div>
- <a href="https://api.whatsapp.com/send?phone=5537999059194&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.instagram.com/alexiakattah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="alexiakattah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/alexiakattah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://api.whatsapp.com/send?phone=61982856849&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ <a href="https://www.instagram.com/bruniingomes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+ 
+ <a href="bruno.bg820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/bruno-gomes-11429016a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## Visitas no pefil - Atividade
@@ -44,9 +45,10 @@ Dev. Front end cursando Senai :computer:
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/alexiakattah/count.svg" />  
+  <img src="https://profile-counter.glitch.me/bruiinsilva/count.svg" />  
 </p>
 
 <!-- github workflow  -->
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+ 
