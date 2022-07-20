@@ -7,8 +7,8 @@
 Estou estudando progração 
  
 <br />
-Analise de sistema :compute:
-<br />
+Analise de sistema 💻
+ <br />
 Gestão tecnológia da informação :computer:
 <br />
 Dev. Front end cursando Senai :computer:
