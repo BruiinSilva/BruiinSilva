@@ -11,8 +11,8 @@ Analise de sistema 💻
  <br />
 Gestão tecnológia da informação :computer:
 <br />
-Dev. Front end cursando Senai :computer:
-<br /> 
+Dev. Front end cursando  no senai 💻
+ <br />
 
 
  <br/> :purple_heart: &nbsp; Buscando aprefeiçoar Front-end 
