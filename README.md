@@ -1,22 +1,23 @@
-<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/blob/master/banner.png " >
+<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/blob/master/ " >
 
 
 # Bruno Gomes
 
 ## Olá pessoal 👋
-Estou estudando progração 
+
+Estou estudando programação 
  
 <br />
 Analise de sistema 💻
  <br />
-Gestão tecnológia da informação :computer:
+Gestão tecnológia da informação 💻
 <br />
 Dev. Front end cursando  no senai 💻
  <br />
 
 
- <br/> :purple_heart: &nbsp; Buscando aprefeiçoar Front-end 
- <br/> :computer: &nbsp; Minha stack: HTML,JAVASCRIPT, CSS 
+ <br/>  🖥️ &nbsp; Buscando aprefeiçoar Front-end 
+ <br/> :computer: &nbsp; Minha stack:  HTML,  JAVASCRIPT,  CSS 
  <br/> 💬  &nbsp; Sobre mim: tecnologias, Futebol, Vasco , Cinema , etc.
 
   
@@ -42,15 +43,17 @@ Dev. Front end cursando  no senai 💻
 
 ## Visitas no pefil - Atividade
 
-<!-- visitors count  -->
+<!-- contagem de visitante -->
 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/bruiinsilva/count.svg" />  
 </p>
 
-<!-- github workflow  -->
+
+<!-- fluxo de trabalho github   -->
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+
  
 
 
