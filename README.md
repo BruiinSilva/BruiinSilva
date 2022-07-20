@@ -1,4 +1,4 @@
-<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/blob/master/ " >
+<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/blob/master/banner.jpg " >
 
 
 # Bruno Gomes
