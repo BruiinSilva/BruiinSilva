@@ -1,5 +1,4 @@
-<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/blob/master/banner.jpg " >
-
+<largura da img = "auto" src="https://github.com/bruiinsilva/bruiinsilva/banner.jpg " >
 
 # Bruno Gomes
 
@@ -18,7 +17,8 @@ Estou estudando programação
 
  <br/>  🖥️ &nbsp; Buscando aprefeiçoar Front-end 
  <br/> :computer: &nbsp; Minha stack:  HTML,  JAVASCRIPT,  CSS 
- <br/> 💬  &nbsp; Sobre mim: tecnologias, Futebol, Vasco , Cinema , etc.
+ <br/> 💬  &nbsp; Sobre mim: tecnologias, Futebol, Vasco , Cinema , etc..
+
 
   
 ## MY SKILLS
@@ -27,7 +27,6 @@ Estou estudando programação
 <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4-Pj2upLHdCjs6Ko1hysW9-I_JGIWMPraA&usqp=CAU" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://blog-fabrica-prod.s3.amazonaws.com/wp-content/uploads/2018/12/06103758/Html5.ico" />
-
 
  
 </div>
