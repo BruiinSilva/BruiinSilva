@@ -17,7 +17,7 @@ Em busca do primeiro emprego na área.
 
 
  <br/>  🖥️ &nbsp; Buscando aprefeiçoar Front-end 
- <br/> :computer: &nbsp; Minha stack:  HTML,  JAVASCRIPT,  CSS 
+ <br/> :computer: &nbsp; Minha stack:  Html, JavaScripit, Css, Bootstrap
  <br/> 💬  &nbsp; Sobre mim: tecnologias, Futebol, Vasco , Cinema , etc..
 
 
