@@ -12,7 +12,7 @@ Em busca do primeiro emprego na área.
  <br />
 💻 Gestão tecnológia da informação - Uniplan (2020-2021)
 <br />
-💻 Dev. Front end cursando  no Senai-DF ( Inicio 23/05/2022 -  Fim 09/09/2022)
+💻 Dev. Front end  - Senai-DF ( Inicio 23/05/2022 -  Fim 09/09/2022)
  <br />
 
 
